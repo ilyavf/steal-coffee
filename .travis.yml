@@ -1,6 +1,7 @@
 sudo: false
 language: node_js
-node_js: '5.x'
+node_js:
+  - 'stable'
 before_install:
   - "export DISPLAY=:99.0"
   - "sh -e /etc/init.d/xvfb start"

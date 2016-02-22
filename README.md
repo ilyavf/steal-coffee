@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/ilyavf/steal-coffee.svg?branch=master)](https://travis-ci.org/ilyavf/steal-coffee)
-[![npm version](https://badge.fury.io/js/steal-coffee.svg)](http://badge.fury.io/js/steal-coffee)
+[![npm version](https://badge.fury.io/js/steal-coffee.svg)](https://badge.fury.io/js/steal-coffee)
 
 # steal-coffee
 

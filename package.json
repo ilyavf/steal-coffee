@@ -12,9 +12,7 @@
   },
   "author": "IlyaVF",
   "license": "MIT",
-  "dependencies": {
-    "coffee-script-browser": "^1.4.0"
-  },
+  "dependencies": {},
   "bugs": {
     "url": "https://github.com/ilyavf/steal-coffee/issues"
   },

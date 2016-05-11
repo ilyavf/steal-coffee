@@ -1,7 +1,7 @@
 {
   "name": "steal-coffee",
-  "version": "0.2.1",
-  "description": "",
+  "version": "0.2.2",
+  "description": "StealJS plugin for CoffeeScript",
   "main": "main.js",
   "scripts": {
     "test": "testee test/test.html test/test-coffee.html --browsers firefox"

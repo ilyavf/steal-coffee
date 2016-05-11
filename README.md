@@ -1,9 +1,7 @@
 [![Build Status](https://travis-ci.org/ilyavf/steal-coffee.svg?branch=master)](https://travis-ci.org/ilyavf/steal-coffee)
 [![npm version](https://badge.fury.io/js/steal-coffee.svg)](https://badge.fury.io/js/steal-coffee)
 
-# steal-coffee
-
-A Steal plugin for CoffeeScript.
+# StealJS plugin for CoffeeScript.
 
 Steal ([StealJS](http://stealjs.com/)) is a module loader that supports different formats (ES6, CommonJS, AMD). You can even use **a combination
 of multiple formats!** Steal will figure it out for you.
